@@ -78,7 +78,7 @@ We performed predictions on a sample test data to demonstrate how the model can 
 
 ## References 📚
 
-- Kaggle Wine Quality Dataset: [Kaggle Dataset](https://www.kaggle.com/)
+- Kaggle Wine Quality Dataset: [Kaggle Dataset](https://www.kaggle.com/datasets/yasserh/wine-quality-dataset)
 - Scikit-learn Documentation: [Scikit-learn](https://scikit-learn.org/stable/)
 - XGBoost Documentation: [XGBoost](https://xgboost.readthedocs.io/en/latest/)
 
